@@ -4,7 +4,7 @@
 #
 Name     : mvn-automaton
 Version  : 1.11.8
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar
 Source0  : https://repo1.maven.org/maven2/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar
 Source1  : https://repo1.maven.org/maven2/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.pom
